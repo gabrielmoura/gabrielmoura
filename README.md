@@ -1,19 +1,18 @@
 ### Olá, eu sou Gabriel 👋
 
-[![Website](https://img.shields.io/website?label=srmoura.com.br&style=for-the-badge&url=https%3A%2F%2Fsrmoura.com.br)](https://srmoura.com.br)
 
 
-## Sou Marido, Desenvolvedor e Estudante !!
 
-- 🔭 Atualmente estou cursando Ciencia da Computação: [Pela Estácio](https://estacio.br/cursos/graduacao/ciencias-da-computacao)!
-- 🌱Atualmente estou aprendendo de tudo 
-- 👯 Procuro colaborar com outros criadores de conteúdo
+## Desenvolvedor Full Stack e Estudante !!
+
+- 🔭 Ciencia da Computação: [Pela Estácio](https://estacio.br/cursos/graduacao/ciencias-da-computacao)!
+- 🌱 Estudando React e Nextjs
 - 🥅 Objetivo 2022 : Trabalhar como programador Jr
-- ⚡ Curiosidade: Amo Jazz, saxofone e super herois
+- ⚡ Curiosidade: Amo Jazz, saxofone e super heróis
 
 ### Conecte-se comigo:
 
-[<img align="left" alt="srmoura.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="GabrielMoura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GabrielMoura | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="GabrielMoura | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
@@ -46,10 +45,11 @@
 
 <br />
 <br />
-
----
-
-
+<div align="center">
+  <a href="#>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 [website]: https://srmoura.com.br
 [linkedin]: https://linkedin.com/in/gabrielmoura
