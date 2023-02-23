@@ -6,8 +6,8 @@
 ## Desenvolvedor Full Stack e Estudante !!
 
 - 🔭 Ciencia da Computação: [Pela Estácio](https://estacio.br/cursos/graduacao/ciencias-da-computacao)!
-- 🌱 Estudando React e Nextjs
-- 🥅 Objetivo 2022 : Trabalhar como programador Jr
+- 🌱 Estudando NestJs e vite
+- 🥅 Objetivo 2023 : Trabalhar como programador Pleno
 - ⚡ Curiosidade: Amo Jazz, saxofone e super heróis
 
 ### Conecte-se comigo:
@@ -15,6 +15,7 @@
 
 [<img align="left" alt="GabrielMoura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GabrielMoura | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="GabrielMoura | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="GabrielMoura | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="GabrielMoura | KeyBase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
 
@@ -58,3 +59,4 @@
 [codecademy]: https://www.codecademy.com/profiles/gabrielrmoura
 [whatsapp]: https://api.whatsapp.com/send?phone=5521983643112
 [keybase]: https://keybase.io/gabrielmoura
+[telegram]: https://t.me/blx32
