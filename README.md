@@ -47,16 +47,15 @@
 <br />
 <br />
 <div align="center">
-  <a href="#>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 [website]: https://srmoura.com.br
-[linkedin]: https://linkedin.com/in/gabrielmoura
+[linkedin]: https://linkedin.com/in/gmoura96
 [gitlab]: https://gitlab.com/gabrielmoura
 [udemy]: https://www.udemy.com/user/gabriel-rodrigues-de-moura/
 [codecademy]: https://www.codecademy.com/profiles/gabrielrmoura
-[whatsapp]: https://api.whatsapp.com/send?phone=5521983643112
+[whatsapp]: https://api.whatsapp.com/send?phone=5521991877221
 [keybase]: https://keybase.io/gabrielmoura
-[telegram]: https://t.me/blx32
+[telegram]: https://t.me/gmoura96
