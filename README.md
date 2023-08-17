@@ -20,6 +20,7 @@
 [<img align="left" alt="GabrielMoura | KeyBase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
 
 
+
 <br />
 
 ### Idiomas e ferramentas:
@@ -43,13 +44,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
+<br />
+
+### Cursos
+[<img align="left" alt="GabrielMoura | Alura" width="22px" src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" />][alura]
+[<img align="left" alt="GabrielMoura | Udemy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/udemy.svg" />][udemy]
+
+
 
 <br />
 <br />
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 [website]: https://srmoura.com.br
 [linkedin]: https://linkedin.com/in/gmoura96
@@ -59,3 +63,5 @@
 [whatsapp]: https://api.whatsapp.com/send?phone=5521991877221
 [keybase]: https://keybase.io/gabrielmoura
 [telegram]: https://t.me/gmoura96
+[alura-cert]: https://cursos.alura.com.br/user/gabriel-blx32/fullCertificate/3556673e900a378fe48cdc5041fe6f1b
+[alura]: https://cursos.alura.com.br/user/gabriel-blx32
