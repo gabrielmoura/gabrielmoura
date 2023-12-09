@@ -1,14 +1,14 @@
-### Olá, eu sou Gabriel 👋
+### Olá, sou Gabriel 👋
 
 
 
 
-## Desenvolvedor Full Stack e Estudante !!
+## Desenvolvedor Back-End Pleno
 
-- 🔭 Ciencia da Computação: [Pela Estácio](https://estacio.br/cursos/graduacao/ciencias-da-computacao)!
-- 🌱 Estudando NestJs e vite
-- 🥅 Objetivo 2023 : Trabalhar como programador Pleno
-- ⚡ Curiosidade: Amo Jazz, saxofone e super heróis
+- Sou estudante de Ciência da Computação (Estácio), e Programador Pleno Back-End na empresa Computei desde 2022. 
+- 🌱 Tudo começou há 13 anos, ainda jovem, já trabalhando com manutenção de computadores e notebooks (freelancer). Em seguida, trabalhei como auxiliar de escritório, e aos 18 anos servi na Marinha do Brasil, por um ano. Em 2021, trabalhei como Help Desk por um ano. Esta é a minha trajetória profissional conquistando experiências desde 2014.
+- 🔭 Ciência da Computação: 6/8
+- ⚡ Curiosidade: Amo Jazz, saxofone e super-heróis.
 
 ### Conecte-se comigo:
 
@@ -23,7 +23,7 @@
 
 <br />
 
-### Idiomas e ferramentas:
+### Linguagens e ferramentas:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
@@ -56,7 +56,7 @@
 <br />
 
 [website]: https://srmoura.com.br
-[linkedin]: https://linkedin.com/in/gmoura96
+[linkedin]: https://linkedin.com/in/gmouradev
 [gitlab]: https://gitlab.com/gabrielmoura
 [udemy]: https://www.udemy.com/user/gabriel-rodrigues-de-moura/
 [codecademy]: https://www.codecademy.com/profiles/gabrielrmoura
