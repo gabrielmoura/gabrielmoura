@@ -7,7 +7,7 @@
 
 - Sou estudante de Ciência da Computação (Estácio), e Programador Pleno na empresa Computei desde 2022. 
 - 🌱 Tudo começou há 10 anos, ainda jovem, já trabalhando com manutenção de computadores e notebooks (freelancer). Em seguida, trabalhei como auxiliar de escritório e aos 18 anos servi na Marinha do Brasil, por um ano. Em 2021, trabalhei como Help Desk por um ano. Esta é a minha trajetória profissional conquistando experiências desde 2013.
-- 🔭 Ciência da Computação: 6/8
+- 🔭 Ciência da Computação: 7/8
 - ⚡ Curiosidade: Amo Jazz, saxofone e super-heróis.
 
 ### Conecte-se comigo:
